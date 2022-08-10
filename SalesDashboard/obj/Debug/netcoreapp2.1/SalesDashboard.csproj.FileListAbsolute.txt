@@ -70,3 +70,8 @@ C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.pdb
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.genruntimeconfig.cache
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csproj.CopyComplete
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
