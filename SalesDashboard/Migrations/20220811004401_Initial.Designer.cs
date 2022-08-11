@@ -9,8 +9,8 @@ using SalesDashboard.Data;
 namespace SalesDashboard.Migrations
 {
     [DbContext(typeof(SalesDashboardContext))]
-    [Migration("20220810203838_First-Migration")]
-    partial class FirstMigration
+    [Migration("20220811004401_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,7 +20,7 @@ namespace SalesDashboard.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("SalesDashboard.Models.Departments", b =>
+            modelBuilder.Entity("SalesDashboard.Models.Department", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,7 +30,7 @@ namespace SalesDashboard.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Departments");
+                    b.ToTable("Department");
                 });
 #pragma warning restore 612, 618
         }

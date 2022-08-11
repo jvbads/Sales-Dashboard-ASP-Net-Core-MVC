@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SalesDashboard.Data;
 
 namespace SalesDashboard.Migrations
 {
     [DbContext(typeof(SalesDashboardContext))]
-    partial class SalesDashboardContextModelSnapshot : ModelSnapshot
+    [Migration("20220811004856_Other-Entities")]
+    partial class OtherEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -63,7 +65,7 @@ namespace SalesDashboard.Migrations
 
                     b.Property<DateTime>("BirthDate");
 
-                    b.Property<int>("DepartmentId");
+                    b.Property<int?>("DepartmentId");
 
                     b.Property<string>("Email");
 
@@ -87,8 +89,7 @@ namespace SalesDashboard.Migrations
                 {
                     b.HasOne("SalesDashboard.Models.Department", "Department")
                         .WithMany("Sellers")
-                        .HasForeignKey("DepartmentId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("DepartmentId");
                 });
 #pragma warning restore 612, 618
         }

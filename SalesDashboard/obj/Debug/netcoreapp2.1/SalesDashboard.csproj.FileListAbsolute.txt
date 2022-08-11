@@ -35,8 +35,6 @@ C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\SalesDashboard\obj\D
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csproj.CopyComplete
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard\obj\project.assets.json
-C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard\obj\SalesDashboard.csproj.nuget.dgspec.json
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.deps.json
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.runtimeconfig.json
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.runtimeconfig.dev.json
@@ -44,7 +42,6 @@ C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.pdb
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.Views.dll
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\bin\Debug\netcoreapp2.1\SalesDashboard.Views.pdb
-C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csprojAssemblyReference.cache
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.AssemblyInfoInputs.cache
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.AssemblyInfo.cs
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csproj.CoreCompileInputs.cache
@@ -70,6 +67,7 @@ C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.pdb
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.genruntimeconfig.cache
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csproj.CopyComplete
+C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\SalesDashboard.csprojAssemblyReference.cache
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Projects\Sales-Dashboard-ASP-Net-Core-MVC\SalesDashboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
